@@ -5,8 +5,8 @@ Estou concluíndo minha formação como técnico em mecatrônica, mas descobri q
 
 <div>
 <a href="https://github.com/Jcassio-dev">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jcassio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jcassio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
  ### Ferramentas e Tecnologias
