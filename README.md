@@ -1,8 +1,6 @@
 ## Olá, me chamo josé cássio :)
 ### Seja mais do quem bem-vindo(a) ao meu perfil!
 
-Estou concluíndo minha formação como técnico em mecatrônica, mas descobri que minha verdadeira paixão profissional é o desenvolvimento WEB. Já havia tido contato com outras linguagens devido o curso, mas quando vi o javascript, sabia de cara que era com aquilo que gostaria de trabalhar.
-
 <div>
 <a href="https://github.com/Jcassio-dev">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&langs_count=7&theme=dracula"/>
