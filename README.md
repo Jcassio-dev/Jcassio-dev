@@ -4,6 +4,7 @@
 <a href = "mailto:josecassio2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-c%C3%A1ssio-1120141b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 <p align="justify"> Técnico em mecatrônica pelo IFRN, aluno pesquisador na área de tecnologia espacial voltada para educação no Centro Vocacional Tecnológico - Espacial (CVT-E)
 sempre gostei de me divertir com a tecnologia, seja desmontando um carro de controle remoto, desenvolvendo um software ou até mesmo apresentando uma oficina sobre Picossatélites educacionais. Acredito que a tecnologia tem um grande poder transformador e gosto de contribuir com sua propagação. Tenho como passatempo resolver cubo 3x3 e assistir bons filmes!</p>
   
@@ -17,7 +18,7 @@ sempre gostei de me divertir com a tecnologia, seja desmontando um carro de cont
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="40" height="40"/>
 </div> 
 
-<h2 align="center">:hourglass: Activity</h2>
+<h2 align="center">:hourglass: Analytics</h2>
 <div align = "center">
 <a href="https://github.com/Jcassio-dev">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&langs_count=7&theme=dracula"/>
