@@ -28,9 +28,3 @@ sempre gostei de me divertir com a tecnologia, seja desmontando um carro de cont
   
  </div>
 
-
-
-
-
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Snake animation](https://github.com/Jcassio-dev/Jcassio-dev/blob/output/github-contribution-grid-snake.svg)
