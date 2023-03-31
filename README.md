@@ -19,12 +19,9 @@ sempre gostei de me divertir com a tecnologia, seja desmontando um carro de cont
 </div> 
 
 <h2 align="center">:hourglass: Analytics</h2>
-<div align = "center">
-<a href="https://github.com/Jcassio-dev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jcassio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jcassio-dev&theme=dracula)](https://git.io/streak-stats)
+<div align = "center" display="flex">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jcassio-dev&theme=dracula)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
 
