@@ -6,7 +6,7 @@
 </div>
 
 <p align="justify">Cursando Tecnologia da Informação pela UFRN, técnico em mecatrônica pelo IFRN,  aluno pesquisador na área de tecnologia espacial voltada para educação no Centro Vocacional Tecnológico - Espacial (CVT-E) e desenvolvedor de software.
-sempre gostei de me divertir com a tecnologia, seja desmontando um carro de controle remoto, desenvolvendo um software ou até mesmo apresentando uma oficina sobre Picossatélites educacionais. Acredito que a tecnologia tem um grande poder transformador e gosto de contribuir com sua propagação. Tenho como passatempo resolver cubo 3x3 e assistir bons filmes!</p>
+Sempre gostei de me divertir com a tecnologia, seja desmontando um carro de controle remoto, desenvolvendo um software ou até mesmo apresentando uma oficina sobre Picossatélites educacionais. Acredito que a tecnologia tem um grande poder transformador e gosto de contribuir com sua propagação. Tenho como passatempo resolver cubo 3x3 e assistir bons filmes!</p>
   
 <div align="center"> 
 <img src="https://i.pinimg.com/originals/48/46/cd/4846cd491775e721ded5fb9121a4a2dc.jpg"/>
