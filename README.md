@@ -23,7 +23,6 @@ Sempre gostei de me divertir com a tecnologia, seja desmontando um carro de cont
   
 ![Jcassio-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcassio-dev&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&theme=dracula)
 
-
   
  </div>
 
