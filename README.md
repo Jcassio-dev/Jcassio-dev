@@ -18,11 +18,3 @@ Sempre gostei de me divertir com a tecnologia, seja desmontando um carro de cont
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="40" height="40"/>
 </div> 
 
-<h2 align="center">:hourglass: Analytics</h2>
-<div align = "center" display="flex">
-  
-![Jcassio-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcassio-dev&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcassio-dev&layout=compact&theme=dracula)
-
-  
- </div>
-
