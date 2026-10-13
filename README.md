@@ -1,20 +1,34 @@
-## Olá, me chamo José Cássio!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1eb253c1-1fbb-4281-beff-0feb3e632544" alt="Pixel art banner" width="100%">
+</p>
 
-<div>
-<a href = "mailto:josecassio2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jos%C3%A9-c%C3%A1ssio-1120141b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
-<p align="justify">Cursando Tecnologia da Informação pela UFRN, técnico em mecatrônica pelo IFRN,  fui aluno pesquisador na área de tecnologia espacial voltada para educação no Centro Vocacional Tecnológico - Espacial (CVT-E) e desenvolvedor de software.
-Sempre gostei de me divertir com a tecnologia, seja desmontando um carro de controle remoto, desenvolvendo um software ou até mesmo apresentando uma oficina sobre Picossatélites Acredito que a tecnologia tem um grande poder transformador e gosto de contribuir com sua propagação. Tenho como passatempo resolver cubo 3x3</p>
-  
-<div align="center"> 
-<img src="https://i.pinimg.com/originals/48/46/cd/4846cd491775e721ded5fb9121a4a2dc.jpg"/>
-</div>
+<h1 align="center">José Cássio</h1>
 
-  
- <h2 align="center">  :computer:	Tech Stack </h2>
-<div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="40" height="40"/>
-</div> 
+<p align="center">
+  <b>Web & embedded developer</b> · IT student · Mechatronics technician
+</p>
 
+<p align="center">
+  <a href="https://jcassio.dev"><img src="https://img.shields.io/badge/portfolio-jcassio.dev-FF2EC4?style=for-the-badge&labelColor=06050A" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jcassio-dev"><img src="https://img.shields.io/badge/LinkedIn-jcassio--dev-00F0FF?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=06050A" alt="LinkedIn"></a>
+  <a href="mailto:contact@jcassio.dev"><img src="https://img.shields.io/badge/email-contact@jcassio.dev-9D3BFF?style=for-the-badge&logo=gmail&logoColor=9D3BFF&labelColor=06050A" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-06050A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-06050A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-06050A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Angular-06050A?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular">
+  <img src="https://img.shields.io/badge/Node.js-06050A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-06050A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-06050A?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring">
+  <img src="https://img.shields.io/badge/C-06050A?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+  <img src="https://img.shields.io/badge/Rust-06050A?style=for-the-badge&logo=rust&logoColor=F74C00" alt="Rust">
+</p>
+
+<p align="center">
+  <sub><code>// always out there solving some problem</code></sub>
+</p>
